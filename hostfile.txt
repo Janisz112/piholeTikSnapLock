@@ -1,0 +1,8 @@
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.pl
+0.0.0.0 www.tiktok.pl
+0.0.0.0 www.tiktok.com
+0.0.0.0 snapchat.com
+0.0.0.0 snapchat.pl
+0.0.0.0 www.snapchat.com
+0.0.0.0 www.snapchat.pl
