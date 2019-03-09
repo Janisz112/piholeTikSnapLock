@@ -6,3 +6,12 @@
 0.0.0.0 snapchat.pl
 0.0.0.0 www.snapchat.com
 0.0.0.0 www.snapchat.pl
+0.0.0.0 snapads.com
+0.0.0.0 feelinsonice.com
+0.0.0.0 feelinsonice.appspot.com
+0.0.0.0 feelinsonice-hrd.appspot.com
+0.0.0.0 appspot.com
+0.0.0.0 tik-tok.app
+0.0.0.0 tiktok.app
+0.0.0.0 musical.ly
+0.0.0.0 live.ly
