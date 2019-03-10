@@ -38,3 +38,9 @@
 0.0.0.0 tiktok.com
 0.0.0.0 v16.akamaized.net
 0.0.0.0 v19.muscdn.com
+0.0.0.0	v16.muscdn.com
+0.0.0.0	v19.muscdn.com
+0.0.0.0	v16.akamaized.net
+0.0.0.0	api2.musical.ly
+0.0.0.0	ib.tiktokv.com
+0.0.0.0	m-p16.akamaized.net
